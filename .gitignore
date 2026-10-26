@@ -1,0 +1,9 @@
+# Measurement files are not distributed with this repository.
+*.raw
+*.RAW
+*.mzML
+*.mzml
+*.mzXML
+*.mzxml
+__pycache__/
+*.pyc
